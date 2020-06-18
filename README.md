@@ -44,3 +44,6 @@
   * [RWD Bookmarklet (測試行動版網站的利器)](https://blog.miniasp.com/post/2012/09/27/Useful-tools-Responsive-Design-Bookmarklet)
   * [Log Parser Lizard GUI (最佳視覺化 LP 工具)](https://blog.miniasp.com/post/2012/03/26/Useful-tool-Log-Parser-Lizard-GUI)
   * [Snippet Compiler](https://blog.miniasp.com/post/2008/07/08/Useful-tool-Snippet-Compiler)
+  
+# 其他:
+  * [Coding Interview University 一套完整的學習手冊幫助自己準備 Google 的面試](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
