@@ -1,3 +1,10 @@
+# AWS:
+ * [AWS Certification Catalog](https://jayendrapatil.com/)
+ * [AWS Certified Solutions Architect – Associate SAA-C01 Exam Learning Path](https://jayendrapatil.com/aws-solutions-architect-associate-feb-2018-exam-learning-path/)
+ * [AWS Certified SysOps Administrator – Associate (SOA-C01) Exam Learning Path](https://jayendrapatil.com/aws-certified-sysops-administrator-associate-soa-c01-exam-learning-path/)
+ * [準備 AWS Certification 考試](https://aws.amazon.com/tw/certification/certification-prep/)
+ * [Amazon Web Services-SlideShare](https://www.slideshare.net/AmazonWebServices)
+ 
 # Troubleshot & Tips:
  ## 程式開發:
    * [Install and configure Failed Request Tracing](https://docs.microsoft.com/zh-tw/archive/blogs/benjaminperkins/lab-4-install-and-configure-failed-request-tracing)
