@@ -1,11 +1,16 @@
-# Troubleshot Cases:
+# Troubleshot & Tips:
  ## 程式開發:
    * [Install and configure Failed Request Tracing](https://docs.microsoft.com/zh-tw/archive/blogs/benjaminperkins/lab-4-install-and-configure-failed-request-tracing)
+   
  ## 系統&網路:
    * [在 Windows 上遇到非常多 TIME_WAIT 連線時應如何處理](https://blog.miniasp.com/post/2010/11/17/How-to-deal-with-TIME_WAIT-problem-under-Windows)
    * [Windows Server 2016 網路分享無法遠端存取](https://blog.darkthread.net/blog/win2016-shared-folder-no-remote-access/)
    * [使用者帳戶控制 (UAC) 深入研究與專家密技分享](https://blog.miniasp.com/post/2012/07/01/Windows-8-User-Access-Control-UAC-in-detail-and-tips)
    * [同一網站 Chrome 瀏覽正常 IE 奇慢](https://blog.darkthread.net/blog/ie-ocsp-checking-issue/)
+   * [如何讓 ngrok 瀏覽只能接受 localhost 連接的網站](https://blog.miniasp.com/post/2018/12/04/ngrok-accept-localhost-only-websites)
+   * [如何利用「磁碟清理」工具 安全的騰出系統硬碟的多餘空間](https://blog.miniasp.com/post/2014/01/22/Using-Disk-Cleanup-Wizard-delete-outdated-Windows-Update-files)
+   * [如何透過 netsh 指令快速切換 Windows 網路設定](https://blog.miniasp.com/post/2008/11/17/Using-Netsh-Command-Line-Utility-to-switch-TCP-IP-settings)
+   * []
  ## 權限:
    * [更新 ASP.NET 網站後冒出 System.Security.Permissions.FileIOPermission 權限錯誤](https://blog.darkthread.net/blog/aspnet-dll-block-issue/)
  
@@ -25,3 +30,17 @@
  * [TFS Git 筆記 - 分支管理策略](https://blog.darkthread.net/blog/git-branching-strategies/)
  * [如何設定 TortoiseGit 改用 WinMerge 當作 Diff 與 Merge 的主要工具](https://blog.miniasp.com/post/2018/01/25/TortoiseGit-replace-TortoiseGitMerge-with-WinMerge)
  * [如何讓 TortoiseSVN 僅匯出新增或修改過的檔案](https://blog.miniasp.com/post/2008/09/09/Using-TortoiseSVN-to-Export-Only-Added-Modified-Files)
+ 
+ # 工具:
+  * [Will 保哥的開發人員工具軟體清單 ( 最新 2017 年版 )](https://blog.miniasp.com/post/2017/09/13/Will-2017-Ultimate-Developer-Tool-Software-List)
+  * [KeePass Password Safe免費工具，幫你管理你所有任何形式的帳密](https://blog.miniasp.com/post/2008/09/03/Useful-tool-KeePass-Password-Safe)
+  * [FxCop-靜態程式碼分析](https://blog.miniasp.com/post/2008/08/28/Useful-tool-FxCop-Code-Analysis-and-Code-Metrics)
+  * [簡單 TCP/IP 服務:用來測試網路功能是否正常](https://blog.miniasp.com/post/2011/11/30/Simple-TCP-IP-Services-for-Socket-Development)
+  * [WinDirStat:磁碟空間被哪些檔案或目錄佔用](https://blog.miniasp.com/post/2008/05/25/Useful-tools-WinDirStat)
+  * [NTrace 套件追蹤:.NET 程式執行效能與除錯](https://blog.miniasp.com/post/2009/02/22/NTrace-High-Performance-Tracing-for-NET-Applications)
+  * [RichCopy:檔案複製與備份的絕佳工具](https://blog.miniasp.com/post/2009/04/18/RichCopy-an-Advanced-Alternative-to-RoboCopy)
+  * [AutoHotkey:快速鍵制定](https://blog.miniasp.com/post/2010/10/21/Useful-tool-PureText-using-AutoHotkey)
+  * [Process Explorer: Windows工作管理員進階版](https://blog.miniasp.com/post/2008/06/25/Useful-tools-Process-Explorer)
+  * [RWD Bookmarklet (測試行動版網站的利器)](https://blog.miniasp.com/post/2012/09/27/Useful-tools-Responsive-Design-Bookmarklet)
+  * [Log Parser Lizard GUI (最佳視覺化 LP 工具)](https://blog.miniasp.com/post/2012/03/26/Useful-tool-Log-Parser-Lizard-GUI)
+  * [Snippet Compiler](https://blog.miniasp.com/post/2008/07/08/Useful-tool-Snippet-Compiler)
