@@ -1,3 +1,8 @@
+# Microsoft Doc
+ * [Microsoft Docs](https://docs.microsoft.com/zh-tw/?view=sql-server-ver15)
+ * [Windows sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
+ * [Windows commands](https://docs.microsoft.com/zh-tw/windows-server/administration/windows-commands/windows-commands)
+ 
 # AWS:
  * [AWS Certification Catalog](https://jayendrapatil.com/)
  * [AWS Certified Solutions Architect – Associate SAA-C01 Exam Learning Path](https://jayendrapatil.com/aws-solutions-architect-associate-feb-2018-exam-learning-path/)
