@@ -31,10 +31,20 @@
  * 
 
 # 版本控制:
- * [Visual Studio Git 筆記 - Git 的 Branch 魔法](https://blog.darkthread.net/blog/vs-git-branch-switch/)
- * [Git 常用指令小抄](https://blog.darkthread.net/blog/my-git-cheatsheet/)
- * [Chrome 版本研究與 Git 練習](https://blog.darkthread.net/blog/chromium-versioning/)
- * [TFS Git 筆記 - 分支管理策略](https://blog.darkthread.net/blog/git-branching-strategies/)
+
+ * Git/GitHub
+   * [Git](https://git-scm.com/book/zh-tw/v1)
+     * [Git入門指南](http://backlogtool.com/git-guide/tw/)
+     * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+     * [Git 指令](http://blog.gogojimmy.net/2012/02/29/git-scenario/)
+     * [利用 git reset 恢復檔案、暫存狀態、commit 訊息](http://ppt.cc/S15LR)
+     * [Visual Studio Git 筆記 - Git 的 Branch 魔法](https://blog.darkthread.net/blog/vs-git-branch-switch/)
+     * [Git 常用指令小抄](https://blog.darkthread.net/blog/my-git-cheatsheet/)
+     * [Chrome 版本研究與 Git 練習](https://blog.darkthread.net/blog/chromium-versioning/)
+     * [TFS Git 筆記 - 分支管理策略](https://blog.darkthread.net/blog/git-branching-strategies/)
+   * [GitHub](https://github.com/)
+     * [GitHub Guide](https://guides.github.com/)
+     * [GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
  * [如何設定 TortoiseGit 改用 WinMerge 當作 Diff 與 Merge 的主要工具](https://blog.miniasp.com/post/2018/01/25/TortoiseGit-replace-TortoiseGitMerge-with-WinMerge)
  * [如何讓 TortoiseSVN 僅匯出新增或修改過的檔案](https://blog.miniasp.com/post/2008/09/09/Using-TortoiseSVN-to-Export-Only-Added-Modified-Files)
  
