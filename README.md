@@ -22,6 +22,7 @@
    * [使用Postman進行API測試](https://dotblogs.com.tw/Im_sqz777/2018/08/16/002431)
    * [newman 一個讓 postman api testing 自動化的好幫手](https://medium.com/cubemail88/newman-%E4%B8%80%E5%80%8B%E8%AE%93-postman-api-testing-%E8%87%AA%E5%8B%95%E5%8C%96%E7%9A%84%E5%A5%BD%E5%B9%AB%E6%89%8B-8e12a6956a25)
    * [GitHub-postmanlabs/newman](https://github.com/postmanlabs/newman)
+   * [Postman-Youtube Learning](https://www.youtube.com/playlist?list=PL6iUkDSEH9SvsgM4zyFrTnaewN65NZHAG)
    
    
  
