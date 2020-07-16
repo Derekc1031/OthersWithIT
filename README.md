@@ -10,6 +10,21 @@
  * [準備 AWS Certification 考試](https://aws.amazon.com/tw/certification/certification-prep/)
  * [Amazon Web Services-SlideShare](https://www.slideshare.net/AmazonWebServices)
  
+# Postman:
+ * **前導知識** :
+   * [【POST】請求頭 Content-type說明](https://medium.com/@des75421/post-%E8%AB%8B%E6%B1%82%E9%A0%AD-content-type-82b93f9230f7)
+   * [post提交的資料有哪幾種編碼格式](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/35164/#outline__1)
+   * [Http POST 提交資料的四種方式解析](https://www.itread01.com/content/1546661362.html)
+ * **Postman教學** :
+   * [Postman官方](https://learning.postman.com/)
+   * [基於postman的api自動化測試實踐](https://www.jishuwen.com/d/2Ecj/zh-tw)
+   * [Postman-測試API神器](https://ithelp.ithome.com.tw/articles/10201503)
+   * [使用Postman進行API測試](https://dotblogs.com.tw/Im_sqz777/2018/08/16/002431)
+   * [newman 一個讓 postman api testing 自動化的好幫手](https://medium.com/cubemail88/newman-%E4%B8%80%E5%80%8B%E8%AE%93-postman-api-testing-%E8%87%AA%E5%8B%95%E5%8C%96%E7%9A%84%E5%A5%BD%E5%B9%AB%E6%89%8B-8e12a6956a25)
+   * [GitHub-postmanlabs/newman](https://github.com/postmanlabs/newman)
+   
+   
+ 
 # Troubleshot & Tips:
  ## 程式開發:
    * [Install and configure Failed Request Tracing](https://docs.microsoft.com/zh-tw/archive/blogs/benjaminperkins/lab-4-install-and-configure-failed-request-tracing)
